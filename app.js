@@ -10,5 +10,5 @@ app.use(express.static('./public'));
 
 todoController(app);
 
-app.listen(3001);
+app.listen(3000);
 console.log('You are listening to port 3001');
