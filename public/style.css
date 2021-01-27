@@ -12,6 +12,12 @@ h1{
   padding:inherit;
 
 }
+h2{
+  text-align: center;
+  font-size: 30px;
+  text-decoration: underline;
+  font-weight: bold;
+}
 #todo-table{
     position: relative;
     width: 95%;
